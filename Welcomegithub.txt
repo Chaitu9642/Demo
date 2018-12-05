@@ -1,11 +1,3 @@
-<<<<<<< HEAD
 welcome to github
 this is second line
-
-
-
-
-
-=======
->>>>>>> c2b45f13f5a2d3c6b2a0a9a6e3ba5e5d65477281
-
+this is repositery
