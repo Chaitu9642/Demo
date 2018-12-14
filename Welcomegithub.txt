@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my first commit
+=======
+this is master remote first commit
+>>>>>>> c76e96f3c0ad29b0a00a95c86be9432cf3e5c65b
